@@ -2,7 +2,8 @@
   "pages":[
     "pages/index/index",
     "pages/logs/logs",
-    "pages/tab1/tab1"
+    "pages/tab1/tab1",
+		"pages/tab2/tab2"
   ],
   "window":{
     "backgroundTextStyle":"light",
